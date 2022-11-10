@@ -1,0 +1,12 @@
+C:\Users\Camilo\source\repos\HardwareSO\HardwareSO\bin\Debug\net6.0\HardwareSO.deps.json
+C:\Users\Camilo\source\repos\HardwareSO\HardwareSO\bin\Debug\net6.0\HardwareSO.dll
+C:\Users\Camilo\source\repos\HardwareSO\HardwareSO\bin\Debug\net6.0\HardwareSO.pdb
+C:\Users\Camilo\source\repos\HardwareSO\HardwareSO\obj\Debug\net6.0\HardwareSO.csproj.AssemblyReference.cache
+C:\Users\Camilo\source\repos\HardwareSO\HardwareSO\obj\Debug\net6.0\HardwareSO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camilo\source\repos\HardwareSO\HardwareSO\obj\Debug\net6.0\HardwareSO.AssemblyInfoInputs.cache
+C:\Users\Camilo\source\repos\HardwareSO\HardwareSO\obj\Debug\net6.0\HardwareSO.AssemblyInfo.cs
+C:\Users\Camilo\source\repos\HardwareSO\HardwareSO\obj\Debug\net6.0\HardwareSO.csproj.CoreCompileInputs.cache
+C:\Users\Camilo\source\repos\HardwareSO\HardwareSO\obj\Debug\net6.0\HardwareSO.dll
+C:\Users\Camilo\source\repos\HardwareSO\HardwareSO\obj\Debug\net6.0\refint\HardwareSO.dll
+C:\Users\Camilo\source\repos\HardwareSO\HardwareSO\obj\Debug\net6.0\HardwareSO.pdb
+C:\Users\Camilo\source\repos\HardwareSO\HardwareSO\obj\Debug\net6.0\ref\HardwareSO.dll
